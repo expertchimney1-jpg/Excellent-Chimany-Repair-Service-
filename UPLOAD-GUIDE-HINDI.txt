@@ -1,0 +1,23 @@
+COMPLETE WEBSITE UPLOAD GUIDE
+
+Is ZIP me index.html, robots.txt, sitemap.xml aur assets folder me 5 photos hain.
+
+GitHub par upload:
+1. ZIP extract karein.
+2. GitHub repository kholen.
+3. Add file > Upload files par click karein.
+4. Extract ki hui files aur assets folder upload karein.
+5. Commit changes karein.
+6. Repository Settings > Pages me branch main aur folder /(root) select karke Save karein.
+7. Custom domain me expertchimneymicrowaveservice.online enter karein.
+8. DNS me GitHub Pages ke exact records wahi add karein jo GitHub Pages settings me dikhaye jaate hain. DNS records guess na karein.
+9. HTTPS active hone ke baad website kholen.
+10. Google Search Console me domain verify karke sitemap.xml submit karein.
+
+CHATGPT SEARCH:
+robots.txt me OAI-SearchBot ko Allow kiya gaya hai, taaki ChatGPT Search crawler access kar sake.
+Search results me website dikhna guaranteed nahi hai. Domain public hona, crawl access, indexing aur useful/accurate content zaroori hain.
+GPTBot training crawler alag hai; is file me GPTBot ko Disallow rakha gaya hai.
+
+BOOKING:
+Form WhatsApp message draft kholta hai. Ye apne aap technician dispatch ya appointment confirm nahi karta.
